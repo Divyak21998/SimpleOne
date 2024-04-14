@@ -1,4 +1,4 @@
-/*package StepDefenition;
+package StepDefenition;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -46,4 +46,4 @@ public void hit_the_home_page_url_of_banking_site() {
 	    System.out.println("loginmessage is be displayed and user is be redirect to home page");
 	}
 
-}*/
+}
